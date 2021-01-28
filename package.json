@@ -1,5 +1,10 @@
 {
-  "name": "client",
+  "name": "boilerplate",
+  "author": {
+    "name": "Kayne GI",
+    "email": "kayne@live.co.kr",
+    "url": "https://github.com/cestemms"
+  },
   "version": "0.1.0",
   "private": true,
   "scripts": {
